@@ -1,0 +1,75 @@
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    top: calc(40%);
+    left: calc(30%);
+}
+
+.profile{
+    position: absolute;
+    top: calc(55%);
+    left: calc(35%);
+    width: calc(9%);
+    height: calc(5%);
+}
+
+.the_work{
+    position: absolute;
+    top: calc(55%);
+    left: calc(45%);
+    width: calc(9%);
+    height: calc(5%);
+}
+
+.address{
+    position: absolute;
+    top: calc(55%);
+    left: calc(55%);
+    width: calc(9%);
+    height: calc(5%);
+}
+
+.myProfile{
+    font-size: 50px;
+    font-weight: bold;
+    position: absolute;
+    top: calc(170%);
+    left: calc(25%);
+}
+
+.self_introduction{
+    font-size: 30px;
+    position: absolute;
+    top: calc(200%);
+    left: calc(23%);
+}
+
+.text{
+    font-size: 25px;
+    position: absolute;
+    top: calc(210%);
+    left: calc(23%);
+}
+
+.gameTitle1{
+    font-size: 50px;
+    position: absolute;
+    top: 2460px;
+    left: 450px;
+}
+
+.gitURL1{
+    font-size: 30px;
+    position: absolute;
+    top: 2960px;
+    left: 300px;
+}
+
+.lowerLimit{
+    font-size: 100px;
+    font-weight: bold;
+    position: absolute;
+    top: calc(500%);
+    left: 450px;
+}
